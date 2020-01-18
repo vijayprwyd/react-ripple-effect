@@ -1,0 +1,14 @@
+
+.btn {
+    height: 42px;
+    line-height: 42px;
+    display: block;
+    padding: 0 2em;
+    border-radius: 2px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2);
+    font-size: 1.4em;
+    color: white;
+    background-color: rgb(218, 13, 81);
+    margin: 10px;
+  }
+  
